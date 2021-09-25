@@ -1,0 +1,19 @@
+.search-container {
+  background-color: rgb(36, 36, 36);
+  text-align: center;
+  line-height: 40px;
+  padding: 10px;
+}
+.search-container input {
+  width: 75%;
+  padding: 8px;
+}
+.shop-container {
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+}
+.product-container {
+  border-right: 1px solid lightgrey;
+  margin-right: 8px;
+  margin-left: 50px;
+}
